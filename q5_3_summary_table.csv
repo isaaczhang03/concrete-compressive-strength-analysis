@@ -1,0 +1,4 @@
+Model,Training MSE,Testing MSE,Training R2,Testing R2
+Untransformed,104.1365,141.2356,0.6241,0.3688
+Standardized,104.1365,141.2356,0.6241,0.3688
+Log-Transformed,55.83,54.3614,0.7985,0.7571
